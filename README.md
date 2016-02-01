@@ -48,7 +48,7 @@ LoadModule proxy_http_module modules/mod_proxy_http.so
     host: git.vas.web.id
     port: 80
     https: false
-
+# gitlab-ctl restart
 ```
 
 ### Setting Using Resource Memory Kernel
